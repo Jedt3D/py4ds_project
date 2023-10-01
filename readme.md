@@ -1,4 +1,4 @@
-# Read Me
+# Read Me 64032745
 
 รายชื่อ libraries สำหรับงาน data science __ทดสอบมาบน Python 3.11__ สำหรับ macOS 13 แต่ควรใช้ได้กับ Python 3.11 บน platform อื่นๆ ไม่ยากนัก
 
