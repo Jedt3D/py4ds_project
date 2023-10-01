@@ -1,6 +1,6 @@
 # Read Me
 
-ทดสอบมาบน Python 3.11 สำหรับ macOS 13 แต่ควรใช้ได้กับ Python 3.11 บน platform อื่นๆ ไม่ยากนัก
+รายชื่อ libraries สำหรับงาน data science __ทดสอบมาบน Python 3.11__ สำหรับ macOS 13 แต่ควรใช้ได้กับ Python 3.11 บน platform อื่นๆ ไม่ยากนัก
 
 1. สร้าง virtualenv ก่อนใช้งานเสมอ
 2. ติดตั้ง libraryเหล่านี้ด้วยคำสั่งด้านล่าง
