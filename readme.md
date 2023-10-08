@@ -9,7 +9,11 @@
 
 3. ต้องติดตั้ง PyTest ให้ project ตามวิดีโอนี้
 
-![PyTest Setup](setup_pytest_in_project.gif)
+![PyTest Setup](./setup_pytest_in_project.gif)
+
+4. เซ็ตค่า Label folder ให้เป็น src/, tests/ 
+
+![Label Folders](./label_folder.jpeg)
 -----
 ### รายชื่อ library และ version (2023-10-01)
 
