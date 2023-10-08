@@ -10,6 +10,7 @@ def greeting():
     # FIX : complete this
     print('สวัสดีชาวลาดกระบัง')
 
+
 def know_my_name():
     """
     Asks the user for their name and returns it.
@@ -32,11 +33,5 @@ def say_hi(name=None):
     Args:
         name (str, optional): The name to greet. Defaults to None.
     """
-    # TODO : complete this
-    pass
-
-
-
-
-
-
+    # FIX : complete this
+    print(f'สวัสดีคุณ{name}')
