@@ -8,13 +8,13 @@ def is_odd(num):
     Check if a number is odd.
 
     Args:
-        num (int): The number to be checked.
+        nm (int): The number to be checked.
 
-    Returns:
+    Returns:u
         bool: True if the number is odd, False otherwise.
     """
-    # TODO : complete this
-    pass
+    # fix : complete this
+    return num % 2 == 1
 
 
 def is_even(num):
