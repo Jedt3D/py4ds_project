@@ -21,7 +21,8 @@ def know_my_name():
         str: The name entered by the user.
     """
     # FIX : complete this
-    return 'Worajedt'
+    name = input('ชื่อไรอ่ะเรา:')
+    return name
 
 
 def say_hi(name=None):
@@ -33,3 +34,9 @@ def say_hi(name=None):
     """
     # TODO : complete this
     pass
+
+
+
+
+
+
